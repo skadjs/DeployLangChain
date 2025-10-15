@@ -14,7 +14,7 @@ env:
 jobs:
   test:
     runs-on: ubuntu-latest
-    name: Run Tests
+    name: Package Install and Run Python
     
     steps:
       - name: Checkout Code
