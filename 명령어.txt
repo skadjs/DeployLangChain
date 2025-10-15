@@ -1,0 +1,6 @@
+# 가상환경 활성화
+source /Users/eon/skRookies/mydeploy/deploy-langchain/.venv/bin/activate
+
+# 가상환경에서 파이썬 코드 실행하기
+python ${FILE_PATH}
+예시) python src/deploy_langchain/main_pdf_rag.py
